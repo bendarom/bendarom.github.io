@@ -38,3 +38,11 @@ a:visited {
   color: rgb(255, 31, 31);
   font-weight: bold;
 }
+blockquote {
+  font-family:'Times New Roman', Times, serif;
+  color:hsl(27, 100%, 92%);
+}
+table {
+  font-family:'Times New Roman', Times, serif;
+  color: rgb(255, 105, 41);
+}
