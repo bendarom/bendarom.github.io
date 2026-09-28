@@ -30,3 +30,11 @@ ul {
   color:hsl(27, 100%, 92%);
 
 }
+a:link {
+  color: rgb(255, 105, 41);
+  font-weight: bold;
+}
+a:visited {
+  color: rgb(255, 31, 31);
+  font-weight: bold;
+}
