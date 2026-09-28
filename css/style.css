@@ -1,0 +1,32 @@
+body {
+  background-color: rgb(41, 62, 90);
+}
+
+p {
+  font-family:'Times New Roman', Times, serif;
+  font-size: 15x;
+  color:hsl(27, 100%, 92%);
+
+}
+h1 {
+  color: rgb(255, 191, 102);
+  font-family:'Times New Roman', Times, serif;
+}
+h2 {
+  color: rgb(255,191,102);
+  font-family:'Times New Roman', Times, serif;
+}
+h3 {
+  color: rgb(255,191,102);
+  font-family:'Times New Roman', Times, serif;
+}
+ol {
+  font-family:'Times New Roman', Times, serif;
+  color:hsl(27, 100%, 92%);
+
+}
+ul {
+  font-family:'Times New Roman', Times, serif;
+  color:hsl(27, 100%, 92%);
+
+}
