@@ -46,3 +46,16 @@ table {
   font-family:'Times New Roman', Times, serif;
   color: rgb(255, 105, 41);
 }
+hr {
+  border: 0;
+  width: 80%;
+  color: rgb(255, 105, 41);
+background-color: rgb(255, 105, 41);
+height: 5px;
+}
+div {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
