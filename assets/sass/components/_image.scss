@@ -73,6 +73,17 @@
 			}
 		}
 
+		&.drone-image {
+			aspect-ratio: 5 / 2;
+			overflow: hidden;
+
+			img {
+				height: 100%;
+				object-fit: cover;
+				object-position: center 58%;
+			}
+		}
+
 		@include breakpoint('<=small') {
 			&.main {
 				margin: (_size(element-margin) * 1) 0;

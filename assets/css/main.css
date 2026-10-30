@@ -704,6 +704,17 @@ input, select, textarea {
 				width: 100%;
 			}
 
+		.image.drone-image {
+			aspect-ratio: 5 / 2;
+			overflow: hidden;
+		}
+
+			.image.drone-image img {
+				height: 100%;
+				object-fit: cover;
+				object-position: center 58%;
+			}
+
 		@media screen and (max-width: 736px) {
 
 			.image.main {
